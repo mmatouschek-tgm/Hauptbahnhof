@@ -1,8 +1,7 @@
 import org.hibernate.annotations.Entity;
-
-@Entity
 import java.util.Date;
 
+@Entity
 public class Sonderangebot {
 
 	private Long ID;
